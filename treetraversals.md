@@ -13,7 +13,7 @@ class Node {
         this.value = value;
         this.parent = this.left = this.right = null;
     }
-}
+};
 
 ```
 
@@ -65,6 +65,6 @@ depthFirst() {
     if (!this.root) return;
     const stack = [];
     // insert your code here :)
-}
+};
 
 ```
